@@ -5,4 +5,4 @@
 ##### Automation Testing
 
 This project is for BlueSky Citadel  
-It is a Full automation testing including API
+It is a Full automation testing that includes API
